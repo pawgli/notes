@@ -1,0 +1,7 @@
+1. Go to the [Google Cloud Console,](https://console.cloud.google.com/projectselector2/iam-admin/serviceaccounts) select your project and create a new service account. ![Creating service credentials](https://user-images.githubusercontent.com/3340954/174650300-b402ab85-8171-43c1-8d1b-c9aea313cf10.png)
+1. Add the **Firebase App Distribution Admin** role. ![Adding role to account](https://user-images.githubusercontent.com/3340954/174650469-b3daa54a-a980-45e7-9ea0-8f89661a9a09.png)
+1. Confirm the empty settings on the `Grant users access to this service account` stage. Click `Done`. 
+![Grant users access to this service account](https://user-images.githubusercontent.com/3340954/174650706-449abb96-5a8e-4894-bf60-7d6de84566d1.png)
+1. Click on the created account. ![Entering account details](https://user-images.githubusercontent.com/3340954/174650954-d32d7d48-e6e2-4d04-95db-8e60f9bdb7d1.png)
+1. Create a new key. ![Creating key](https://user-images.githubusercontent.com/3340954/174651069-492c3c69-4164-49bc-90d0-5faca6de5ec6.png)
+1. Choose JSON format and confirm, the file will be downloaded. ![Selecting key format](https://user-images.githubusercontent.com/3340954/174651133-1b2fd732-1bfe-48b5-a923-473d93bb68e0.png)
